@@ -41,7 +41,7 @@ Check weather by city through pinning any data results in JSON format on IPFS wi
 <!-- ABOUT THE Oracle -->
 ## About The Oracle
 
-This oracle is connected to the Polygon blockchain and uses the well-known and trusted <a href="https://openweathermap.org/">OpenWeatherMap</a>. All the documentation provided is by OpenWeatherMap is function with our oracle.
+This oracle is connected to the Polygon blockchain and uses the well-known and trusted <a href="https://openweathermap.org/">OpenWeatherMap</a>. All the documentation provided is by OpenWeatherMap is functional with our oracle.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
